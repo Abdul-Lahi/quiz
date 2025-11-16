@@ -1,0 +1,1 @@
+[{"id": "ILFp", "name": "Abdulahi", "type": "teacher", "email": "opemipo", "password": "1111"}, {"id": "cQLP", "name": "ibrahim", "type": "student", "email": "ola", "password": "3333"}, {"id": "5GLl", "name": "ganiu", "type": "student", "email": "adebayo", "password": "5555"}]

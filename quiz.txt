@@ -1,0 +1,18 @@
+[
+    {
+        "question": "who is the coach of arsenal",
+        "(A)": "arteta",
+        "(B)": "pep",
+        "(C)": "klopp",
+        "(D)": "zidane",
+        "answer": "a"
+    },
+    {
+        "question": "who is arsenal captain",
+        "(A)": "ozil",
+        "(B)": "saka",
+        "(C)": "odegaard",
+        "(D)": "ronaldo",
+        "answer": "c"
+    }
+]
